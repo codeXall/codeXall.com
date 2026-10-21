@@ -8,7 +8,7 @@
 
 An independent UK app company creating, launching and growing its own mobile-first products.
 
-[Website](https://codexall.com) · [Email](mailto:hello@codexall.com)
+[Website](https://codexall.com) · [Email](mailto:info@codexall.com)
 
 </div>
 
@@ -24,7 +24,7 @@ codeXall is an app-first product studio. We identify useful everyday needs, turn
 
 **CODEXALL LTD**  
 Registered in England and Wales  
-[hello@codexall.com](mailto:hello@codexall.com)
+[info@codexall.com](mailto:info@codexall.com)
 
 ## Copyright
 
